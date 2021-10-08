@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Application Project_Mom\'s nag</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="whale_array">
+        <item>Pick a whale sound!</item>
+
+        <item>Humpback contact Call Moo</item>
+        <item>killerwhale_offshore</item>
+    </string-array>
+
+</resources>
